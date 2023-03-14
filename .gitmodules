@@ -1,0 +1,6 @@
+[submodule "lenovolegionlinux-git"]
+	path = lenovolegionlinux-git
+	url = https://aur.archlinux.org/lenovolegionlinux-git.git
+[submodule "legion-fan-utils-linux-git"]
+	path = legion-fan-utils-linux-git
+	url = https://aur.archlinux.org/legion-fan-utils-linux-git.git
